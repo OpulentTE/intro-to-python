@@ -14,6 +14,9 @@ add_one(6)
 print("add_one(6) returns:")
 print(add_one(6))
 
+print("add_one(8) returns:")
+print(add_one(8))
+
 # @TASK: Run this code in the shell:
 #
 #   python 012_add_one.py
